@@ -52,6 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gabrielff748/Gabrielff748/output/cobrinha.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Gabrielff748/Gabrielff748/output/snake.svg" alt="Snake animation" />
 
 ###
